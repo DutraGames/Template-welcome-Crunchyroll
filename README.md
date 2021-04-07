@@ -10,4 +10,4 @@ A página inicial do template
 Ele é responsivo, pode roda em qualquer dispositivo. Abaixo um print de um celular:
 ![image](https://user-images.githubusercontent.com/69097449/113791844-e745fe80-971a-11eb-82fc-79160f3e57a3.png)
 
-Link de vídeo demostrativo:
+Link de vídeo demostrativo: https://youtu.be/cCKjHdaEZQI
