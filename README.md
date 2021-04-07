@@ -4,7 +4,7 @@ Um simples template da página da Crunchyroll de seja bem vindo!
 A página inicial da Crunchyroll 
 ![image](https://user-images.githubusercontent.com/69097449/113791323-c5984780-9719-11eb-98d1-0a5f88a181f2.png)
 
-A página inicial do template
+A página inicial do template template
 ![image](https://user-images.githubusercontent.com/69097449/113791426-f9736d00-9719-11eb-8558-76870bb34eab.png)
 
 Ele é responsivo, pode roda em qualquer dispositivo. Abaixo um print de um celular:
